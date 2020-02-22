@@ -1,0 +1,2 @@
+เพิ่มไฟล์ new-1.txt 
+and save
