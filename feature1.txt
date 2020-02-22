@@ -1,0 +1,2 @@
+สร้างไฟล์ feature1.txt ใน brach feature
+อย่าลืมsave
