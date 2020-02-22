@@ -1,1 +1,1 @@
-Hello git แก้ไขไฟล์ a.txt
+Hello git
