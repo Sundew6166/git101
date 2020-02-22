@@ -1,2 +1,2 @@
-เพิ่มไฟล์ new-1.txt 
+แก้ไขไฟล์ new-1.txt ใน git102
 and save
